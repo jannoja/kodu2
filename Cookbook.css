@@ -1,0 +1,65 @@
+html,body
+{
+    overflow-x: hidden;
+}
+
+.header {
+    text-align: center;
+    font-size: 20px;
+}
+
+.header2{
+    padding: 20px;
+    font-size: 20px;
+}
+
+.Retseptid, .Votayhendust {
+    display: inline;
+    margin: 130px;
+}
+
+.two-column-div {
+    padding-left: 20%;
+    padding-right: 10%;
+    column-count: 2;
+}
+
+.Cooks{
+    max-width: 40%;
+    max-height: 30%;
+    min-width: 75px;
+}
+
+
+.Eesti, .Aasia, .Itaalia {
+    padding: 5%;
+    border-radius: 50%;
+    max-width: 75%;
+    max-height: 75%;
+}
+
+
+.Insta, .Linked {
+    max-width: 7%;
+    max-height: 7%;
+    float:right;
+    min-width: 15px;
+}
+
+.sitefooter {
+    padding: 5%;
+    background: lightgray;
+    column-count: 2;
+}
+
+.socialIMGS{
+    float: right;
+}
+
+.EestiKook, .AasiaKook, .ItaaliaKook{
+    font-size: 30px;
+}
+
+.socials{
+    float: left;
+}
